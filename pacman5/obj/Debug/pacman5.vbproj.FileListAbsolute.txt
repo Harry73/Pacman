@@ -1,0 +1,24 @@
+c:\users\ian\documents\visual studio 2012\Projects\pacman5\pacman5\bin\Debug\pacman5.exe.config
+C:\Users\Ian\documents\visual studio 2012\Projects\pacman5\pacman5\bin\Debug\pacman5.exe
+C:\Users\Ian\documents\visual studio 2012\Projects\pacman5\pacman5\bin\Debug\pacman5.pdb
+C:\Users\Ian\documents\visual studio 2012\Projects\pacman5\pacman5\bin\Debug\pacman5.xml
+C:\Users\Ian\documents\visual studio 2012\Projects\pacman5\pacman5\obj\Debug\pacman5.Resources.resources
+C:\Users\Ian\documents\visual studio 2012\Projects\pacman5\pacman5\obj\Debug\pacman5.vbproj.GenerateResource.Cache
+C:\Users\Ian\documents\visual studio 2012\Projects\pacman5\pacman5\obj\Debug\pacman5.exe
+C:\Users\Ian\documents\visual studio 2012\Projects\pacman5\pacman5\obj\Debug\pacman5.xml
+C:\Users\Ian\documents\visual studio 2012\Projects\pacman5\pacman5\obj\Debug\pacman5.pdb
+C:\Users\Ian\documents\visual studio 2012\Projects\pacman5\pacman5\obj\Debug\pacman5.pacman5.resources
+C:\Users\Ian\Documents\Programming\Visual Studio 2012\Projects\pacman5\pacman5\bin\Debug\pacman5.exe.config
+C:\Users\Ian\Documents\Programming\Visual Studio 2012\Projects\pacman5\pacman5\obj\Debug\pacman5.exe
+C:\Users\Ian\Documents\Programming\Visual Studio 2012\Projects\pacman5\pacman5\obj\Debug\pacman5.xml
+C:\Users\Ian\Documents\Programming\Visual Studio 2012\Projects\pacman5\pacman5\obj\Debug\pacman5.pdb
+C:\Users\Ian\Documents\Programming\Visual Studio 2012\Projects\pacman5\pacman5\bin\Debug\pacman5.exe
+C:\Users\Ian\Documents\Programming\Visual Studio 2012\Projects\pacman5\pacman5\bin\Debug\pacman5.pdb
+C:\Users\Ian\Documents\Programming\Visual Studio 2012\Projects\pacman5\pacman5\bin\Debug\pacman5.xml
+C:\Users\Ian\Documents\Programming\Visual Studio 2012\Projects\pacman5\pacman5\obj\Debug\pacman5.pacman5.resources
+C:\Users\Ian\Documents\Programming\Visual Studio 2012\Projects\pacman5\pacman5\obj\Debug\pacman5.Resources.resources
+C:\Users\Ian\Documents\Programming\Visual Studio 2012\Projects\pacman5\pacman5\obj\Debug\pacman5.vbproj.GenerateResource.Cache
+C:\Users\Ian\Documents\Programming\Visual Basic\Projects\pacman5\pacman5\bin\Debug\pacman5.exe.config
+C:\Users\Ian\Documents\Programming\Visual Basic\Projects\pacman5\pacman5\obj\Debug\pacman5.exe
+C:\Users\Ian\Documents\Programming\Visual Basic\Projects\pacman5\pacman5\obj\Debug\pacman5.xml
+C:\Users\Ian\Documents\Programming\Visual Basic\Projects\pacman5\pacman5\obj\Debug\pacman5.pdb
