@@ -1,1 +1,2 @@
-# Pacman, created in Visual Basic
+# Pacman
+Coded in Visual Basic
